@@ -1,0 +1,21 @@
+{
+  "name": "dstudy",
+  "version": "1.0.0",
+  "description": "d-study server",
+  "main": "index.js",
+  "scripts": {
+    "test": "dstudy-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "own-server"
+  },
+  "keywords": [
+    "own-server"
+  ],
+  "author": "tonyChoiMS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
