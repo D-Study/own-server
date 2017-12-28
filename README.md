@@ -1,2 +1,13 @@
 # own-server
 ownself Server Repository
+
+## To do List
+ - AWS EC2, RDS 연동작업
+ - 클라우드 서버 내에 작업 환경 구성(NodeJS, MariaDB.. etc)
+ - DB 구성
+ - API 구성
+  - 회원가입
+  - 로그인
+  - 데이터 전체 업로드
+  - [데이터 전체 다운로드]
+  - []그외 필요한 부분 협의
