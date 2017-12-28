@@ -2,9 +2,9 @@
 ownself Server Repository
 
 ## To do List
- - AWS EC2, RDS 연동작업<br />
- - 클라우드 서버 내에 작업 환경 구성(NodeJS, MariaDB.. etc)<br />
- - DB 구성<br />
+ - ~~AWS EC2, RDS 연동작업~~<br />
+ - ~~클라우드 서버 내에 작업 환경 구성(NodeJS, MariaDB.. etc)~~<br />
+ - ~~DB 구성~~<br />
  - API 구성<br />
   - 회원가입<br />
   - 로그인<br />
